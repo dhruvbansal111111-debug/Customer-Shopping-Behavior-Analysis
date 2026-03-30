@@ -1,13 +1,12 @@
 **Overview**
 
-A concise, end-to-end data analytics project demonstrating data ingestion, exploratory data analysis (EDA), data cleaning, SQL analysis with MySQL, an interactive Power BI dashboard, a written report, and a presentation generated with Gamma AI. Designed to be recruiter friendly, reproducible, and easy to follow.
+A concise, end-to-end data analytics project demonstrating data ingestion, exploratory data analysis (EDA), data cleaning, SQL analysis with MySQL, an interactive Power BI dashboard, a written report, and a presentation generated with Gamma AI.
 
 **Dataset**
 
 Source: Local CSV or exported database file.
 Structure: Rows of observations with ID, timestamp, categorical features, numerical features, and target/labels.
 Size: Small to medium (suitable for local development and Power BI).
-Notes: Include a short data/README.md describing column definitions and any sensitive fields that should be excluded.
 
 **Tools**
 
@@ -30,7 +29,7 @@ pandas, numpy, matplotlib, seaborn for manipulation and visual exploration.
 - **SQL analysis**
 - Push cleaned data to MySQL or run SQL queries against the source for aggregations and joins.
 - **Dashboard development**
-- Build interactive visuals in Power BI with slicers, drill-throughs, and cross-filtering.
+- Build interactive visuals in Power BI with slicers and interactive graphs.
 - **Reporting and presentation**
 - Write a concise report summarizing methods and findings; use Gamma AI to generate a PPTX and polish slides.
 - **Deliverables**
