@@ -1,6 +1,6 @@
 **Overview**
 
-A concise, end-to-end data analytics project demonstrating data ingestion, exploratory data analysis (EDA), data cleaning, SQL analysis with MySQL, an interactive Power BI dashboard, a written report, and a presentation generated with Gamma AI.
+A concise, end-to-end data analytics project demonstrating data ingestion, exploratory data analysis (EDA), data cleaning, SQL analysis with MySQL, an interactive Power BI dashboard, a written report, and a presentation.
 
 **Dataset**
 
